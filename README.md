@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dev32100
 - 👀 I’m interested in becomming a software engineer and switching careers
 - 🌱 I’m currently learning the basics 
-- 💞️ I’m looking to collaborate on projects related to what developers and software engineers do for a living
-- 📫 How to reach me, PM my inbox.
+- 💞️ I’m looking to collaborate on projects related to full stack development that I can add to my portfolio "will work for free"
+- 📫 How to reach me, private message to get in touch.
 
 <!---
 dev32100/dev32100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
